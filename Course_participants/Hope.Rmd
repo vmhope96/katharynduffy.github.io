@@ -1,0 +1,6 @@
+---
+title: "Hope"
+output: html_document
+---
+
+Hello, my name is Victoria. I am a M.S student in the Informatics program and looking forward to learning R, Git, and other tools throughout the semester! 
